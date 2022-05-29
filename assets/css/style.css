@@ -10,11 +10,11 @@ body {
   height: 100vh;
   display: flex;
   background-color: rgb(144, 212, 249);
+  font-family: 'Pokemon Solid';
 }
 
 .header {
   -webkit-text-stroke: 1px rgb(79, 118, 208);
-  font-family: 'Pokemon Solid';
   font-size: 25px;
   color: rgb(251, 189, 32);
   position: absolute;
